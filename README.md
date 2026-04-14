@@ -335,9 +335,9 @@ MIT License
 
 | 平台 | 链接 |
 | --- | --- |
-| 📧 Email | [你的邮箱] |
-| 🐙 GitHub | [你的GitHub] |
-| 📝 Blog | [你的博客] |
+| 📧 Email | [347643982@qq.com] |
+| 🐙 GitHub | [huaxialucaicaizi] |
+| 📝 公众号&小红书 | [菜菜子在思考] |
 
 ---
 
